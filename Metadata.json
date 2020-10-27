@@ -1,0 +1,20 @@
+{
+    "Author": "Jorge de Almeida Pinto [MVP]",
+    "ContentSize": 30404,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/check-installation-of-the-azure-ad-password-protection-dc-agent/master/AAD-Password-Protection-Install-DC-Agent-Check.ps1",
+    "DownloadCount": 213,
+    "Id": "Check-Installation-Of-The-49baf465",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 309,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2019-10-27T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "WARNING: Due to retirement of Technet Script Gallery, migrated to:https://github.com/zjorz/Public-AAD-Scripts/blob/master/AAD-Password-Protection-Install-DC-Agent-Check.ps1As you deploy RWDCs, you need to make sure all have the Azure AD Password Protection DC Agent installed, and",
+    "Title": "Check Installation Of The Azure AD Password Protection DC Agent",
+    "UpdatedDate": "2020-4-3T00:00:00",
+    "Url": "https://github.com/azureautomation/check-installation-of-the-azure-ad-password-protection-dc-agent",
+    "UserTags": "Azure AD Password Protection, Azure AD Password Protection DC Agent"
+}
